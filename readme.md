@@ -7,4 +7,4 @@ The dataset consists of 59 variables related to hematopoietic stem cell transpla
 The data is downloaded from [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/data).
 
 ## Exploratory Data Analysis
-<iframe src="eda_report.html" width="100%" height="600px" style="border: none;"></iframe>
+👉 [View Detailed Dataset Description](eda_report.html)
