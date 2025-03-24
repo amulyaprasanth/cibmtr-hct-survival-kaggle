@@ -5,4 +5,4 @@ import pandas as pd
 train_dataset = pd.read_csv("data/train.csv")
 
 report = sv.analyze(train_dataset, target_feat="efs_time")
-report.show_html("index.html", layout=vertical)
+report.show_html("index.html", layout="widescreen", scale=0.8)
